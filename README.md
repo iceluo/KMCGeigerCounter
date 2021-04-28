@@ -1,3 +1,8 @@
+
+用来测试性能
+
+
+
 # KMCGeigerCounter
 
 This tool is a framerate meter that clicks like a Geiger counter when your animation drops a frame.
